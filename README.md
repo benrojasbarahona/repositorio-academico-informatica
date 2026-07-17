@@ -31,7 +31,7 @@ Convenciones:
 
 ### Opción A — automática (recomendada)
 
-Usa la herramienta [siveduc-dl](https://github.com/CEE-Informatica-UACh/siveduc-dl) del CEE:
+Usa la herramienta [siveduc-dl](https://github.com/benrojasbarahona/siveduc-dl) del CEE (repositorio privado — pide acceso al Centro de Estudiantes):
 
 ```bash
 # en el repositorio del scraper
